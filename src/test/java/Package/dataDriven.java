@@ -45,8 +45,7 @@ public class dataDriven {
 
 				System.out.println(coloumn);
 				System.out.println(coloumn);
-				System.out.println(coloumn);
-				System.out.println(coloumn);
+				 
 
 				while (row.hasNext())
 				{
