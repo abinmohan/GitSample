@@ -44,8 +44,8 @@ public class dataDriven {
 				}
 
 				System.out.println(coloumn);
-				System.out.println(coloumn);
 				 
+				System.out.println("branch");
 
 				while (row.hasNext())
 				{
