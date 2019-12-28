@@ -13,6 +13,8 @@ public class testSample {
 		System.out.println(d.get(1));
 		System.out.println(d.get(2));
 		System.out.println(d.get(3));
+		System.out.println("Test1");
+		System.out.println("Test2");
 	}
 
 }
